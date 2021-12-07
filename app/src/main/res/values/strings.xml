@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomViewExample</string>
+    <string name="increment_count_text">Увеличить счетчик</string>
+    <string name="reset_count_text">сбросить счетчик</string>
+</resources>
